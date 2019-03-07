@@ -11,4 +11,8 @@ To provide simple examples
 
 ## Deployment
 sifsrifg'ire
+
 ## How to contribute
+
+### Copyright
+2014 Git Training
