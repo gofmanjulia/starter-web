@@ -4,10 +4,11 @@ This is a simple website project for showing to use Git and GIthub together.
 
 ## Introduction
 
-Sample website with plenty of files for demos
+This is example
 
 ## Purpose
+To provide simple examples 
 
 ## Deployment
-
+sifsrifg'ire
 ## How to contribute
