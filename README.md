@@ -13,6 +13,7 @@ To provide simple examples
 sifsrifg'ire
 
 ## How to contribute
+Please bla bla 
 
 ### Copyright
 2014 Git Training
